@@ -13,7 +13,7 @@
 
 Todolistv1 is a constantly running web-app that allows you to write down your daily needs.
 It was made using Async and Express.
-For more details contact me [HERE](nathaneneja@gmail.com)*
+For more details contact me [HERE]([mail.google.com/](https://mail.google.com/mail/u/0/#sent?compose=new))*
 
 
 ```javascript
